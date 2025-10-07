@@ -23,7 +23,7 @@ Follow these steps to clone, build, and run the project on your machine:
 
 ### 1. Clone the repository
 
-	git clone https://github.com/ATHARVA47/CSC481-581-Property-Centric.git
+	git clone https://github.com/AlexanderCard/CSC481-581-M9.git
 
 ### 2. Install SDL3
 
